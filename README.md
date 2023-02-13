@@ -11,3 +11,7 @@ Created repository and cloned it.
 Commit 02: File structure
 
 Added files from UCONN, structured them, linked css to html
+
+Commit 03: Code Working
+
+Added Javascript to make the password function work. Has only 2 prompts so far.
